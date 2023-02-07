@@ -13,7 +13,7 @@ from scipy.interpolate import CubicSpline,interp1d,Akima1DInterpolator,PchipInte
 
 class MyBounds(object):
     ''' 
-    bounds class to make sure your variable is with in the inspected bounds
+    bounds class to make sure your variable is with in the expected bounds
     '''
     def __init__(self, xmin, xmax):
         self.xmax = np.array(xmax)
