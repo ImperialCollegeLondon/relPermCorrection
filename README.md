@@ -1,7 +1,7 @@
 # relPermCorrection
 A method to correct steady-state relative permeability measurements for inhomogeneous saturation profiles in one-dimensional flow
 
-The updated version of the code is available in this [**address**](https://github.com/ImperialCollegeLondon/porescale/tree/master/codes/relPermCorrection).
+The updated version of this code is available in this [**address**](https://github.com/ImperialCollegeLondon/porescale/tree/master/codes/relPermCorrection).
 
 ## Citing our Work
 
