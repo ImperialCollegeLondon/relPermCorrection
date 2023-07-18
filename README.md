@@ -8,7 +8,7 @@ A significant advantage of our method is its ability to systematically account f
 
 ## Note:
 
-The latest version of this code is available at the following [**link**](https://github.com/ImperialCollegeLondon/porescale/tree/master/codes/relPermCorrection).
+The latest version of this code is available at the this [**link**](https://github.com/ImperialCollegeLondon/porescale/tree/master/codes/relPermCorrection).
 
 ## Citing our Work
 
