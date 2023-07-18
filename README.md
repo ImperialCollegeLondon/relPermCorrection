@@ -8,8 +8,6 @@ A significant advantage of our method is its ability to systematically account f
 
 **## Note:**
 
-```diff
-
 The latest version of this code is available at the following [**link**](https://github.com/ImperialCollegeLondon/porescale/tree/master/codes/relPermCorrection).
 
 ## Citing our Work
