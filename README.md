@@ -6,7 +6,7 @@ Our code introduces an analytical approach to correct relative permeabilities us
 A significant advantage of our method is its ability to systematically account for the underestimation of relative permeability caused by assuming a homogeneous saturation profile. This effect is particularly pronounced in media with one strongly wetting phase, exhibiting a noticeable capillary end effect. 
 
 
-## Note:
+<span style="color:red">## Note:</span>
 
 The latest version of this code is available at the following [**link**](https://github.com/ImperialCollegeLondon/porescale/tree/master/codes/relPermCorrection).
 
