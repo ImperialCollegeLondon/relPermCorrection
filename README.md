@@ -5,6 +5,13 @@ Our code introduces an analytical approach to correct relative permeabilities us
 
 A significant advantage of our method is its ability to systematically account for the underestimation of relative permeability caused by assuming a homogeneous saturation profile. This effect is particularly pronounced in media with one strongly wetting phase, exhibiting a noticeable capillary end effect. 
 
+## Using the Code
+
+1. **Prepare Input Data**: Carefully adjust the Excel file and input parameters to match your requirements.
+2. **Run the Script**: Execute `run.py` to process the data.
+3. **Generate Plots**: After `run.py` completes, run `myPlot.py` to generate plots for relative permeabilities.
+
+Make sure all dependencies are installed and paths are correctly configured before running the scripts.
 
 
 ## Citing our Work
