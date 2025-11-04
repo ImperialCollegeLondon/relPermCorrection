@@ -1,6 +1,6 @@
-#######################################################################################################################
+##################################################################################################################
 **Update:** A zip file has been added to apply the drainage correction. The original code was developed for imbibition.
-########################################################################################################################
+##################################################################################################################
 # relPermCorrection
 
 The Relative Permeability Correction Code is a novel method that corrects steady-state relative permeability calculations for inhomogeneous saturation profiles along the flow direction. Traditionally, relative permeability is determined using Darcy's law on small rock samples, assuming a homogeneous saturation profile and constant capillary pressure. However, these assumptions are rarely accurate due to local inhomogeneities and the capillary end effect, where the wetting phase tends to be retained at the outlet.
