@@ -1,3 +1,21 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2025 Sajjad Foroughi
+"""
+A Novel Method That Corrects Steady-State Relative Permeability Calculations for Inhomogeneous Saturation Profiles Along the Flow Direction.
+
+Author: Dr. Sajjad Foroughi (Imperial College London)
+Contact: s.foroughi@imperial.ac.uk
+Repository: https://github.com/ImperialCollegeLondon/relPermCorrection
+License: MIT
+
+If you use this code, please cite:
+1. Zhang, G., Foroughi, S., Bijeljic, B., & Blunt, M. J. (2023). 
+A method to correct steady-state relative permeability measurements for inhomogeneous saturation profiles in one-dimensional flow. 
+Transport in Porous Media. https://doi.org/10.1007/s11242-023-01993-6
+2. Guanglei Zhang, Sajjad Foroughi, Ali Q. Raeini, Martin J. Blunt, and Branko Bijeljic. 
+"The Impact of Bimodal Pore Size Distribution and Wettability on Relative Permeability and Capillary Pressure in a Microporous Limestone with Uncertainty Quantification." 
+Advances in Water Resources 171 (2023): 104352.
+"""
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
